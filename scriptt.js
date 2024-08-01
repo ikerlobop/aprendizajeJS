@@ -2,7 +2,6 @@
 console.log("Hola Mundo");
 
 //Utilizando variables
-
 var nombre = "Juan";
 var apellido = "Perez";
 var edad = 20;
